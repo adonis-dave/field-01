@@ -1,0 +1,25 @@
+{
+  "name": "field-01",
+  "version": "1.0.0",
+  "description": "A copy of the field repo but with added stylelint linters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adonis-dave/field-01.git"
+  },
+  "author": "David Denis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adonis-dave/field-01/issues"
+  },
+  "homepage": "https://github.com/adonis-dave/field-01#readme",
+  "devDependencies": {
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
